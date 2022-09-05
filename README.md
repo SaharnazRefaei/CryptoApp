@@ -1,4 +1,4 @@
-<p>✨Cryptogram </p>
+<p>✨Crypto App </p>
 <img src="https://user-images.githubusercontent.com/102354875/186860528-92b07c29-29d7-4579-a584-9267c3e8938c.png"></img>
 
 
